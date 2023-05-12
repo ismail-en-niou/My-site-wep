@@ -421,6 +421,7 @@ span{
     }
 }
 @media (max-width : 450px ){
+    
     html{
         font-size: 50%;
     }
@@ -430,6 +431,10 @@ span{
 
 }
 @media (max-width : 350px ){
+    body{
+        width : 340px;
+        }
+        
     .home-img img {
         width: 90vw;
     }
