@@ -434,7 +434,9 @@ span{
     body{
         width : 340px;
         }
-        
+      .header{
+          width:100%;
+          }
     .home-img img {
         width: 90vw;
     }
