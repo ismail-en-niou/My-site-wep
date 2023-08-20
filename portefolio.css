@@ -14,8 +14,10 @@
     --main-color:#0ef;
 }
 html{
-    font-size: 62.5%;
-    overflow-x:hidden;
+      min-height: 100vh;
+    padding: 10rem 9% 2rem;
+    overflow: hidden;
+    margin:0;
 }
 body{
     background: var(--bg-color);
